@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "297023016581",
+    "project_id": "tlob-jewellery",
+    "storage_bucket": "tlob-jewellery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297023016581:android:27a69465c3fa23bf9823ec",
+        "android_client_info": {
+          "package_name": "com.example.tlob_jewellery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297023016581-e75l9d5bvpvmhh4ns1logdihrqa08j0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tlob_jewellery_app",
+            "certificate_hash": "9dfc5a6715f16925400aa02eba03527a5956dd5a"
+          }
+        },
+        {
+          "client_id": "297023016581-5sde0ui89u3vctac7ph16i841is660hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARyoBcC29I9Xnlg9SYW8DJ8x7KKMb9M2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297023016581-5sde0ui89u3vctac7ph16i841is660hi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297023016581-qd6momdtjhsqjq8tbju122ig0udn4ucp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tlobJewelleryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
