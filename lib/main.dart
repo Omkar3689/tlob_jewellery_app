@@ -101,7 +101,7 @@ class LandingScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.end,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text("TLOB", style: GoogleFonts.playfairDisplay(color: Colors.white, fontSize: 50, letterSpacing: 12, fontWeight: FontWeight.bold)),
+                Text("TLOB.IN", style: GoogleFonts.playfairDisplay(color: Colors.white, fontSize: 50, letterSpacing: 12, fontWeight: FontWeight.bold)),
                 const SizedBox(height: 10),
                 Text("Crafting Timeless Elegance\nFor Every Occasion.", style: GoogleFonts.playfairDisplay(color: Colors.white, fontSize: 22, height: 1.2)),
                 const SizedBox(height: 40),
